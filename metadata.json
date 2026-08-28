@@ -1,0 +1,6 @@
+{
+  "name": "Bee Device Health",
+  "description": "Know Your Device. Protect Your Data. Professional cross-platform device health and hardware diagnostic system.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
